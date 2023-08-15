@@ -84,15 +84,16 @@ int main()
     scanf("%d",&str);
     printf("End :\n");
     scanf("%d",&end);
-    printf("Output :\n");
     for ( i = str; i <= end; i++)
     {
         for ( i2 = 1; i2 <= 9; i2++)
         {
-           printf("%d X %d = %d\n",i,i2,i *i2);
+           printf("%d x %d = %d\n",i,i2,i *i2);
         }
          printf("\n");
     }
     
     return 0;
 }
+
+
