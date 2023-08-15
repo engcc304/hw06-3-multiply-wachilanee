@@ -80,10 +80,11 @@
 int main()
 {
     int str,end,i,i2;
-    printf(" Start :\n");
+    printf("Start :\n");
     scanf("%d",&str);
-    printf(" End :\n");
+    printf("End :\n");
     scanf("%d",&end);
+    printf("Output :\n");
     for ( i = str; i <= end; i++)
     {
         for ( i2 = 1; i2 <= 9; i2++)
