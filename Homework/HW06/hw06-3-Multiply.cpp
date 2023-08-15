@@ -90,7 +90,7 @@ int main()
         {
            printf("%d X %d = %d\n",i,i2,i *i2);
         }
-        printf("\n");
+        // printf("\n");
     }
     
     return 0;
