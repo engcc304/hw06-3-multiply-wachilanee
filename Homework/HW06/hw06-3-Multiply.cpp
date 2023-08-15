@@ -88,9 +88,9 @@ int main()
     {
         for ( i2 = 1; i2 <= 9; i2++)
         {
-           printf("%d X %d = %d\n",i,i2,i *i2);
+           printf(" %d X %d = %d\n",i,i2,i *i2);
         }
-        // printf("\n");
+         printf("\n");
     }
     
     return 0;
